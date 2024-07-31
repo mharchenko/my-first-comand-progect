@@ -1,0 +1,20 @@
+.hero-container {
+  width: 1000px;
+}
+.title {
+  color: teal;
+  font-size: 40px;
+}
+.item {
+  color: orangered;
+  font-size: 24px;
+}
+
+.text {
+  color: blueviolet;
+  font-size: 16px;
+}
+.links {
+  color: green;
+  font-size: 50px;
+}
